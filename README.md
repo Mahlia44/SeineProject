@@ -23,7 +23,8 @@ from sklearn.linear_model import LinearRegression
 
 ## Datasets Instructions
 
-All the datasets are to be found on NAS, an online storage server. You should download the following files: biol_data, phychem_data and Qgis.
+All the datasets are to be found on NAS, an online storage server, at this address: https://urwaters.quickconnect.to/. 
+You should download the following files: biol_data, phychem_data and Qgis.
 
 You should then place the files in the current repository, without pushing them on GitHub (they are too heavy).
 
